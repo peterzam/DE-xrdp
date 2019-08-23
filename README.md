@@ -15,10 +15,15 @@ No additional Desktop interface will be used. The remote desktop session will di
 #Step to use the script
 
 1. Make it excutable
+
 <code>chmod +x  ~/Downloads/install-xrdp-3.0.sh</code>
 
+
 2. Standard way - 
+
 <code>./install-xrdp-3.0.sh<code>./install-xrdp-3.0.sh</code>
-  
+
+
 3. Enabling Sounds Redirection
+
 <code>./install-xrdp-3.0.sh -s yes</code>
