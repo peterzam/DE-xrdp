@@ -1,7 +1,7 @@
 # DE-xrdp
 Desktop Environment and XRDP for Ubuntu
 
-#Prerequisites and assumptions
+<h2>Prerequisites and assumptions</h2>
 
 We assume that you have internet connection available and that you are indeed running one of the following version of Ubuntu 
 
@@ -14,16 +14,14 @@ No additional Desktop interface will be used. The remote desktop session will di
 
 #Step to use the script
 
-1. Make it excutable
+<h2>1. Make it excutable</h2>
 
-<code>chmod +x  ~/Downloads/install-xrdp-3.0.sh</code>
+<code>chmod +x  ~/Downloads/install-xrdp-3.0.sh </code>
 
+<h2>2. Standard way</h2>
 
-2. Standard way - 
+<code>./install-xrdp-3.0.sh</code>
 
-<code>./install-xrdp-3.0.sh<code>./install-xrdp-3.0.sh</code>
+<h2>3. Enabling Sounds Redirection</h2>
 
-
-3. Enabling Sounds Redirection
-
-<code>./install-xrdp-3.0.sh -s yes</code>
+<code> ./install-xrdp-3.0.sh -s yes </code>
