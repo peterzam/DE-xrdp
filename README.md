@@ -6,7 +6,9 @@ Desktop Environment and XRDP for Ubuntu
 We assume that you have internet connection available and that you are indeed running one of the following version of Ubuntu 
 
 Ubuntu 18.04 (up to Ubuntu 18.04.2)
+
 Ubuntu 18.10
+
 Ubuntu 19.04 
 
 We have performed the test on a Virtual Machine running on Virtual box (on Windows 2012 R2) with Sound enabled !!!
