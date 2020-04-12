@@ -14,7 +14,7 @@ Ubuntu 19.04
 We have performed the test on a Virtual Machine running on Virtual box (on Windows 2012 R2) with Sound enabled !!!
 No additional Desktop interface will be used. The remote desktop session will display the Ubuntu tweak Gnome Desktop interface
 
-#Step to use the script
+# Step to use the script
 
 <h2>1. Make it excutable</h2>
 
