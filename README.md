@@ -21,8 +21,6 @@ We assume that you have internet connection available and that you are indeed ru
 
 <h4>2. Standard Installation Script</h4>
 <p>The Standard installation script performs the xrdp installation process using built-in xrdp packages available in the Ubuntu Repository. The install script performs some additional configuration tasks that provide a better user experience when remote connected to the Ubuntu machine. These scripts have been build specifically for the Standard Ubuntu flavor. Use these scripts at your own risk !!!</p>
-=======
-# Step to use the script
 
 
 <h4>3. Custom Installation Script</h4>
